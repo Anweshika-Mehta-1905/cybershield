@@ -250,15 +250,3 @@ final_score = w1 × anomaly_score + w2 × ml_score + w3 × wfa_score
 3. **Debug backend**: Add `--reload` flag to uvicorn for hot reload
 4. **Proxy**: Frontend `package.json` already has `"proxy": "http://localhost:8000"`
 
----
-
-## 📚 Team
-
-| Name | Roll No |
-|------|---------|
-| Ayan Jain | 24BCE0789 |
-| Anweshika Mehta | 24BCE0790 |
-| Divyansh Patel | 24BCI0221 |
-
-**Course**: BCSE304L · Theory of Computation · Slot E2+TE2  
-**Faculty**: Dr Padmavathy T
